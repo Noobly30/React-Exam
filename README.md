@@ -1,1 +1,1 @@
-classbased.tsx是已经完成的文件
+classbased.tsx is the completed file.
